@@ -1,0 +1,14 @@
+{
+    "name": "lexmciver/brackets_validator",
+    "autoload": {
+        "psr-4": {
+            "Space\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "12"
+    }
+}
